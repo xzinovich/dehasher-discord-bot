@@ -1,5 +1,3 @@
-# dehasher-discord-bot
-
 ### Ce projet Discord permet à un utilisateur de détecter le type de hash d'un message et de le dehash en utilisant des commandes.
 
 # Prérequis
